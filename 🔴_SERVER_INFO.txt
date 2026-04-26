@@ -1,0 +1,21 @@
+╔════════════════════════════════════════════════════════╗
+║     АСТЕРАЛ ГПТ - 128-CORE WINDOWS SERVER             ║
+║                RDP CONNECTION INFORMATION              ║
+╚════════════════════════════════════════════════════════╝
+
+STATUS: 🟡 SIMULATED - SET SECRETS FOR REAL SERVER
+
+🌐 IP       : دریافت_نشد_ابتدا_Secret_را_تنظیم_کن
+🚪 PORT     : 3389
+👤 USER     : لطفا_ASTERAL_SERVER_USER_را_تنظیم_کنید
+🔑 PASSWORD : لطفا_ASTERAL_SERVER_PASS_را_تنظیم_کنید
+💻 CPU      : 128 CORES (AMD EPYC / Intel Xeon)
+🧠 RAM      : 512 GB
+💾 STORAGE  : 4 TB NVMe
+🖥️  OS       : Windows Server 2022
+
+================================================
+🔌 CONNECTION:
+- فایل RDP: ASTERAL_128CORE.rdp را اجرا کنید
+- یا: mstsc.exe /v:دریافت_نشد_ابتدا_Secret_را_تنظیم_کن:3389
+================================================
